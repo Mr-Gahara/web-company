@@ -1,6 +1,6 @@
 export default function AboutSection() {
   return (
-    <div className="sec about" id="about">
+    <div className="sec about" id="tentang">
       <div className="about-in">
         <div>
           <p className="slabel">Tentang Kami</p>

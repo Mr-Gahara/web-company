@@ -1,6 +1,6 @@
 export default function ServicesSection() {
   return (
-    <div className="sec" id="sv" style={{ background: 'var(--w)' }}>
+    <div className="sec" id="layanan" style={{ background: 'var(--w)' }}>
       <p className="slabel">Layanan</p>
       <h2 className="stitle rv">Apa yang Kami Kerjakan</h2>
       <p className="sdesc rv d1">

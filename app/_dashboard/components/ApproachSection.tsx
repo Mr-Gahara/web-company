@@ -1,6 +1,6 @@
 export default function ApproachSection() {
   return (
-    <div className="sec" id="ap" style={{ background: 'var(--w)' }}>
+    <div className="sec" id="pendekatan" style={{ background: 'var(--w)' }}>
       <div className="appin">
         {/* Left: Pendekatan */}
         <div>

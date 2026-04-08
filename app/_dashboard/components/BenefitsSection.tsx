@@ -41,7 +41,7 @@ const delayClass = ['rv d1', 'rv d2', 'rv d3', 'rv d4', 'rv d5', 'rv d6'];
 
 export default function BenefitsSection() {
   return (
-    <div className="sec bens" id="bn">
+    <div className="sec bens" id="benefit">
       <p className="slabel">Manfaat</p>
       <h2 className="stitle rv">Dampak Nyata yang Anda Rasakan</h2>
       <p className="sdesc rv d1">
